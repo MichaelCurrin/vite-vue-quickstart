@@ -9,6 +9,11 @@
 - [TypeScript](https://michaelcurrin.github.io/dev-resources/resources/typescript/)
 
 
+## Related projects
+
+- [vite-react-quickstart](https://github.com/MichaelCurrin/vite-react-quickstart)
+
+
 ## Notes
 
 ### Templates
