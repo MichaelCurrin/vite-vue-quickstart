@@ -1,4 +1,4 @@
-# Vite Vue Quickstart
+# Vue Vite Quickstart
 > Starter template for a Vue project using Vite as a build tool
 
 
