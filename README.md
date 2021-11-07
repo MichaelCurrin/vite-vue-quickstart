@@ -11,7 +11,8 @@
 
 ## Related projects
 
-- [vite-react-quickstart](https://github.com/MichaelCurrin/vite-react-quickstart)
+- [react-vite-quickstart](https://github.com/MichaelCurrin/react-vite-quickstart)
+- [vite-quickstart](https://github.com/MichaelCurrin/vite-quickstart)
 
 
 ## Notes
