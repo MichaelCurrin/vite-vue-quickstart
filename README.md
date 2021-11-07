@@ -13,8 +13,9 @@ This Vue template uses the `vite` package to compile, build, and serve. Instead 
 
 ## Related projects
 
-- [react-vite-quickstart](https://github.com/MichaelCurrin/react-vite-quickstart)
-- [vite-quickstart](https://github.com/MichaelCurrin/vite-quickstart)
+- [vue-quickstart](https://github.com/MichaelCurrin/vue-quickstart) - Vue only. Using the traditional Vue CLI.
+- [react-vite-quickstart](https://github.com/MichaelCurrin/react-vite-quickstart) - React and Vite.
+- [vite-quickstart](https://github.com/MichaelCurrin/vite-quickstart) - Vite only.
 
 
 ## Notes
