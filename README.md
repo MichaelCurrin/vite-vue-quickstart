@@ -4,7 +4,7 @@
 
 ## Resources
 
-- [Vite](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/vite/)
+- [Vite](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/bundlers/vite.html)
 - [Vue](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/vue/)
 - [TypeScript](https://michaelcurrin.github.io/dev-resources/resources/typescript/)
 
