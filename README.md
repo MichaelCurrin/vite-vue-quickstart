@@ -1,7 +1,7 @@
 # Vue Vite Quickstart
 > Starter template for a Vue project using Vite as a build tool
 
-This Vue template uses the `vite` package to compile, build, and serve. Instead of the traditional `vue-cli-service`.
+This Vue template uses the `vite` package to compile, build, and serve your app. Instead of the traditional `vue-cli-service` package.
 
 
 ## Resources
@@ -13,7 +13,7 @@ This Vue template uses the `vite` package to compile, build, and serve. Instead 
 
 ## Related projects
 
-- [vue-quickstart](https://github.com/MichaelCurrin/vue-quickstart) - Vue only. Using the traditional Vue CLI.
+- [vue-quickstart](https://github.com/MichaelCurrin/vue-quickstart) - Vue only. Using the traditional `vue-cli-service` approach.
 - [react-vite-quickstart](https://github.com/MichaelCurrin/react-vite-quickstart) - React and Vite.
 - [vite-quickstart](https://github.com/MichaelCurrin/vite-quickstart) - Vite only.
 
